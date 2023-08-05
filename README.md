@@ -12,7 +12,7 @@ Hi there! I'm a junior developer eager to dive deep into full-stack development.
 
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiagooyo)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-valentim/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagooyo@gmail.com)](mailto:thiagooyo@gmail.com)
 
