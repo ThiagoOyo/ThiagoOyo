@@ -17,14 +17,11 @@ Hi there! I'm a junior developer eager to dive deep into full-stack development.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagooyo@gmail.com)](mailto:thiagooyo@gmail.com)
 
 
-<table>
+<!--<table>
   <th>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOyo&layout=compact&langs_count=7&theme=dracula"/>
   </th>
-  <th>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoOyo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </th> 
-</table>
+-->
 
 ### Skills
 <!-- ## Languages -->
