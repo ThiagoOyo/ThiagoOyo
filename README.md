@@ -2,7 +2,8 @@
 
  Full-Stack, Bitcoin, Cryptography, Math, Open-Source, Decentralization, P2P. 
 
-<br/>
+[![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:thgOil@proton.me)
+
 
 ### Languages & Frameworks
 <div> <table> <th> <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> </th> <th> <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> </th> <th> <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </th> <th> <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> </th> <th> <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> </th> <th> <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> </th> </table> </div>
