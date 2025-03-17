@@ -1,4 +1,4 @@
-Main Interests:
+### Main Interests:
 
  Full-Stack, Bitcoin, Cryptography, Math, Open-Source, Decentralization, P2P. 
 
